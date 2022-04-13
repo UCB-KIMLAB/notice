@@ -9,3 +9,5 @@ This is repositories of sunghou kim group @ UC Berkeley.
 # public repo related to the lab.
 
 - [jaejinchoi/ffp](https://github.com/jaejinchoi/ffp)
+
+# Server configuration/softwares
